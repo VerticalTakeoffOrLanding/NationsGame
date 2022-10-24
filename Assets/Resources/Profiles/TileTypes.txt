@@ -1,0 +1,11 @@
+,0,Plains,2,1,0,0,0,3
+,1,Tundra,1,2,0,0,0,-3
+,2,Grassland,3,0,0,0,0,2
+,3,Ocean,0,0,0,1,0,0
+,4,Coast,2,0,0,0,0,1
+,5,Desert,0,0,0,0,0,5
+,6,Bog,0,1,1,0,0,-1
+,7,Snow,0,0,1,0,1,-4
+,8,Ice,0,0,0,0,0,-5
+,9,Savanna,1,1,0,0,0,4,
+TypeIndex,TypeName,TypeFood,TypeProduction,TypeScience,TypeCulture,TypeWorship,TypeHeat
